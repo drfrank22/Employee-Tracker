@@ -1,4 +1,4 @@
-use employees;
+USE employeeDb;
 
 INSERT INTO department
     (id, name)
@@ -19,8 +19,8 @@ VALUES
     ('Lead Engineer', 150000, 3),
     ('Software Engineer', 120000, 3),
     ('Lawyer', 175000, 4),
-    ('HR Director', 125000, 4)
-    ('Customer Service Director', 125000, 5)
+    ('HR Director', 125000, 4),
+    ('Customer Service Director', 125000, 5),
     ('Customer Service Manager', 80000, 5),
     ('Customer Service Rep.', 55000, 5);
 
