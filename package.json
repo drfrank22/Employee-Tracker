@@ -1,0 +1,23 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "tracks employees, manager, and departments",
+  "main": "index.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drfrank22/Employee-Tracker.git"
+  },
+  "author": "Dylan Frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drfrank22/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/drfrank22/Employee-Tracker#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
