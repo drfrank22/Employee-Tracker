@@ -2,7 +2,7 @@
 
 ## Description
 
-This app is used to create an Employee Management System where you can add Employees, Roles, and Departments and view them all as well.
+This app is a Command Line Interface (CLI) and is used to create an Employee Management System where you can add Employees, Roles, and Departments and view them all as well. It utilizes MySql and Sql Workbench to add and query data from the database. The information is persistent across sessions and can be developed over time to delete roles, departments, and employees as well.
 
 ## Table of Contents 
 
@@ -50,3 +50,8 @@ n/a
 
 If you have any questions about the repo,please contact me at drfrank22@gmail.com.
 
+## Demo
+
+<img src="./assets/demo.png">
+
+<a href="https://www.youtube.com/watch?v=gHNFCPFVK4s&feature=youtu.be">View a demo of the CLI here.</a>
